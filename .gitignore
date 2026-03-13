@@ -1,0 +1,12 @@
+# System
+AppData/
+NTUSER*
+*.log
+
+# IDE / Editor
+.cursor/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
